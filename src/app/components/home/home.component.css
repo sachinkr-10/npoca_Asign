@@ -69,7 +69,8 @@ box-shadow: 2px 4px 9px #00000024;
   #vision-details{
   font-size: 26px;
   }
-  #para{
+  .para{
     font-size: 8px !important;
+
   }
 }
