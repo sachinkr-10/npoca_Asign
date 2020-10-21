@@ -1,0 +1,75 @@
+#vision{
+  font-family:  Open Sans;
+  letter-spacing: 0px;
+  color: #FFA33E;
+  opacity: 1;
+  font-size: 14px;
+  text-align: left;
+  width: 68px;
+height: 19px;
+}
+#vision-details{
+  color: #1B2F3F;
+  font-size: 30px;
+  line-height: normal;
+    border: 2px solid transparent;
+  font-family: Montserrat-SemiBold;
+  text-align: left;
+  max-width: 650px;
+height: 128px;
+ overflow: hidden;
+/* text-overflow: hidden; */
+  letter-spacing: 0px;
+  padding: 2px;
+/* line-height: 5px; */
+}
+
+#about-us{
+width: 58px;
+height: 19px;
+text-align: left;
+font-family:  normal normal normal 14px/43px Open Sans;
+letter-spacing: 0px;
+font-size: 14px;
+color: #FFA33E;
+/* opacity: 1; */
+}
+#about-details{
+  max-width:580px;
+max-height: 285px;
+text-align: left;
+letter-spacing: 0px;
+border: 3px solid transparent;
+font-family: Open Sans;
+overflow: hidden;
+color: #000000;
+}
+#proj-title{
+  text-align: center;
+letter-spacing: 0px;
+/* font-weight: bold; */
+font-family: Montserrat-SemiBold;
+font-weight: 31.2px !important;
+font-size: 26px;
+color: #000000;
+}
+#proj-details{
+ font-family: Montserrat-SemiBold;
+ font-size:14px ;
+}
+
+/* #row{
+  width: 1095px;
+height: 231px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 2px 4px 9px #00000024;
+} */
+
+@media screen and (max-width: 992px) {
+  #vision-details{
+  font-size: 26px;
+  }
+  #para{
+    font-size: 8px !important;
+  }
+}

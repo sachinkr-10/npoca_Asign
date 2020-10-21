@@ -1,0 +1,6 @@
+#jumbo{
+  background:url('src/assets/images/jumboImg.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

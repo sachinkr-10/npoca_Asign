@@ -1,0 +1,48 @@
+footer{
+  position: relative;
+}
+#one{
+  /* position: fixed; */
+  background:#394044;
+  max-height:60.06px;
+  width: 100%;
+top: 83%;
+  left: 0;
+  /* bottom: 0; */
+
+}
+@media screen and (max-width: 992px) {
+#npoca{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}}
+#one ul{
+  margin-left: 135px;
+  border-left: 1px solid #FFB923;
+  padding-top: 2px;
+  margin: auto;
+}
+#one ul li{
+  list-style: none;
+  margin: 10px;
+
+}
+#one ul li a{
+  color: white;
+  font-style: OpenSans;
+  text-decoration: underline;
+}
+#two{
+  background: #333332;
+  /* position: absolute; */
+  width: 100%;
+  /* position:fixed; */
+  max-height:60.06px;
+  left: 0;
+  bottom: 0;
+}
+#two span{
+  font-size: 10px;
+  font-style: OpenSans;
+}

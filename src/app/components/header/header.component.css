@@ -1,0 +1,31 @@
+
+@media screen and (max-width: 992px) {
+  /* #nav{
+          float: left;
+  } */
+}
+#nav a{
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold !important;
+  font-family: Montserrat-SemiBold;
+
+
+}
+
+#nav a:hover{
+  color: #FFA33E !important;
+  border-bottom: 4px solid #FFB923;
+}
+nav a.actives{
+  color: #FFA33E !important;
+  /* border-bottom: 4px solid #FFB923; */
+}
+
+a img:hover{
+  /* position: absolute; */
+  transition: all .4s;
+  transform:rotate(360deg);
+}
+  /* font-size: 16px; */
+  /* font-family: Montserrat,SemiBold; */
