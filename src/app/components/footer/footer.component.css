@@ -16,7 +16,11 @@ top: 83%;
  display: flex;
  justify-content: center;
  align-items: center;
-}}
+}
+#one ul li a{
+  font-size: 8px !important;
+}
+}
 #one ul{
   margin-left: 135px;
   border-left: 1px solid #FFB923;

@@ -64,13 +64,33 @@ height: 231px;
 background: #FFFFFF 0% 0% no-repeat padding-box;
 box-shadow: 2px 4px 9px #00000024;
 } */
-
+.para{
+  padding: 12px 0 10px 12px;
+}
 @media screen and (max-width: 992px) {
   #vision-details{
   font-size: 26px;
   }
   .para{
     font-size: 8px !important;
+    padding: 12px 12px 0  12px;
 
   }
+  #row-2{
+    margin-top: 0px !important;
+    margin-bottom: 10px;
+  }
+
+}
+@media screen and (max-width: 576px){
+  .para{
+  font-size: 8px !important;
+  padding: 12px 0 0 12px;
+
+}
+#row-2{
+  margin-top: 28px !important;
+  margin-bottom: 10px;
+}
+
 }
